@@ -6,6 +6,4 @@
 
     Ejecutar comando
 
-    ```
-    npm install
-    ```
+    `<Addr>`npm install
